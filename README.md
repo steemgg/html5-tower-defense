@@ -6,7 +6,7 @@
  * Blog: [http://oldj.net/](http://oldj.net/)
  * Source: https://github.com/oldj/html5-tower-defense
  * License: MIT
- * This game is authorized by original author oldj to [steemgg](https://steemgg.com) & steemgg.game for publishing
+ * This game is authorized by original author oldj to [steemgg](https://steemgg.com) & [@steemgg.game](https://steemit.com/@steemgg.game) for publishing
 
 
 ## 运行
