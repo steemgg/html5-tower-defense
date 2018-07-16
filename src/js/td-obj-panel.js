@@ -175,7 +175,7 @@ _TD.a.push(function (TD) {
 			ctx.fillStyle = "#666";
 			ctx.font = "normal " + (12 * _TD.retina) + "px 'Courier New'";
 			ctx.beginPath();
-			ctx.fillText("version: " + TD.version + " | oldj.net", TD.stage.width - TD.padding,
+			ctx.fillText("version: " + TD.version + " | oldj.net | @steemgg.game", TD.stage.width - TD.padding,
 				TD.stage.height - TD.padding * 2);
 			ctx.closePath();
 
